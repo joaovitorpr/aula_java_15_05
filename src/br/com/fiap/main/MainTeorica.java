@@ -2,7 +2,7 @@ package br.com.fiap.main;
 
 import javax.swing.*;
 
-public class Main {
+public class MainTeorica {
     public static void main(String[] args) {
         do {
             try {
